@@ -3,7 +3,7 @@ Use IntelliJ IDEA compiler and click on main.java and hit run.
 
 # Games
 You can choose between two classic games: chess and checkers. 
-YouTube Demos: https://youtu.be/A4LLCPRXl8s
+YouTube Demo: https://youtu.be/A4LLCPRXl8s
 
 # Pictures
 ![Board Setup](https://github.com/user-attachments/assets/21a92e52-e47e-4be9-8d66-8fc78ca9ec98)
